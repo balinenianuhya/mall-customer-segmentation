@@ -53,4 +53,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📬 Contact
 For any questions, feel free to reach out!
-🌐 GitHub:https://github.com/balinenianuhya
+🌐 GitHub:balinenianuhya
